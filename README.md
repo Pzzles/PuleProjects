@@ -20,6 +20,14 @@ You can find a full list of my projects on my [GitHub profile](https://github.co
 *  [Cloropleth](https://github.com/Pzzles/D3-Cloropleth): A map that displays data by shading or coloring geographic regions based on a variable.
 
 
+### freecodecamp Web design
+
+* [Survey Form](https://www.freecodecamp.org/certification/El_Cid/responsive-web-design)
+* [Technical Documentation Page](https://www.freecodecamp.org/certification/El_Cid/responsive-web-design)
+* [Product Landing Page](https://www.freecodecamp.org/certification/El_Cid/responsive-web-design)
+* [Personal Portfolio Webpage](https://www.freecodecamp.org/certification/El_Cid/responsive-web-design)
+
+
 ### Java Visualization of .csv data
 
 * [Csv_Visualization](https://github.com/Pzzles/Visualize-csvData):
