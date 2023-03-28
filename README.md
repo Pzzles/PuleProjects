@@ -53,7 +53,7 @@ Here are some of the skills and technologies that I'm proficient in:
 
 
 If you would like to get in touch with me, feel free to reach out via 
-* email: tshehlap@gmail.com
+* email: tshetlhapulem@gmail.com
 or
 * [LinkedIn](https://www.linkedin.com/in/pule-tshetlha/)
 
