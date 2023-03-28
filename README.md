@@ -9,9 +9,40 @@ I enjoy solving complex problems and creating innovative solutions.
 ## Projects
 
 
-### Javascript D3 visualization
+### Javascript D3 Visualization
 
-* ThinkPython: A collection of solutions to exercises from the book "Think Python" by Allen B. Downey.
-* Movie Recommender: A web application that recommends movies based on user preferences.
-* Game of Life: An implementation of Conway's Game of Life cellular automaton.
-*  [Barchart](https://github.com/Pzzles/D3-Barchart) : a barchart.
+*  [Barchart](https://github.com/Pzzles/D3-Barchart): a barchart.
+*  [Scatterplot](https://github.com/Pzzles/D3-Scatterplot):
+*  [Treemap](https://github.com/Pzzles/D3-Treemap):
+*  [Heatmap](https://github.com/Pzzles/D3-Heatmap):
+*  [Cloropleth](https://github.com/Pzzles/D3-Cloropleth):
+
+
+### Java Visualization of .csv data
+
+* [csvVisualization](https://github.com/Pzzles/Visualize-csvData):
+
+
+### To-Do Project
+
+* [To-do](https://github.com/Pzzles/To-do-Project):
+
+
+### Tenant Management System
+
+* [TenantManagementSystem](https://github.com/Pzzles/Tenant_Management_System):
+
+
+## Skills
+
+Here are some of the skills and technologies that I'm proficient in:
+
+* Java
+* Python
+* C++
+* JavaScript
+* Ladder Logic
+* HTML/CSS
+* D3
+* Node js
+* SQL
