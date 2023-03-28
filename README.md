@@ -20,14 +20,6 @@ You can find a full list of my projects on my [GitHub profile](https://github.co
 *  [Cloropleth](https://github.com/Pzzles/D3-Cloropleth): A map that displays data by shading or coloring geographic regions based on a variable.
 
 
-### freecodecamp Web design
-
-* [Survey Form](https://github.com/Pzzles/Survey_Form)
-* [Technical Documentation Page](https://github.com/Pzzles/Technical_Doc)
-* [Product Landing Page](https://github.com/Pzzles/Product_Landing_Page)
-* [Personal Portfolio Webpage](https://github.com/Pzzles/Personal_Portfolio_Webpage)
-
-
 ### Java Visualization of .csv data
 
 * [Csv_Visualization](https://github.com/Pzzles/Visualize-csvData): a web application that inputs user identity data, and a csv file. It parses the file and saves the data into a database. It uses JDBC API to read the data and visualizes it on a temporal graph.
@@ -43,8 +35,15 @@ You can find a full list of my projects on my [GitHub profile](https://github.co
 * [Tenant_Management_System](https://github.com/Pzzles/Tenant_Management_System): A web application designed for property managers to manage their tenants and rental properties. The system allows managers to track tenant details, lease agreements, rental payments, and maintenance requests. It also provides reports and analytics to help managers make informed decisions about their properties. The system can be used to streamline the rental process and improve tenant satisfaction.
 
 
-## Skills
+### freecodecamp Web design
 
+* [Survey Form](https://github.com/Pzzles/Survey_Form)
+* [Technical Documentation Page](https://github.com/Pzzles/Technical_Doc)
+* [Product Landing Page](https://github.com/Pzzles/Product_Landing_Page)
+* [Personal Portfolio Webpage](https://github.com/Pzzles/Personal_Portfolio_Webpage)
+
+
+## Skills
 
 Here are some of the skills and technologies that I'm proficient in:
 
