@@ -20,7 +20,7 @@ I enjoy solving complex problems and creating innovative solutions.
 
 ### Java Visualization of .csv data
 
-* [csvVisualization](https://github.com/Pzzles/Visualize-csvData):
+* [Csv_Visualization](https://github.com/Pzzles/Visualize-csvData):
 
 
 ### To-Do Project
@@ -30,10 +30,11 @@ I enjoy solving complex problems and creating innovative solutions.
 
 ### Tenant Management System
 
-* [TenantManagementSystem](https://github.com/Pzzles/Tenant_Management_System):
+* [Tenant_Management_System](https://github.com/Pzzles/Tenant_Management_System):
 
 
 ## Skills
+
 
 Here are some of the skills and technologies that I'm proficient in:
 
@@ -46,3 +47,11 @@ Here are some of the skills and technologies that I'm proficient in:
 * D3
 * Node js
 * SQL
+
+
+## Contact Me
+
+
+If you would like to get in touch with me, feel free to reach out via [email](https://mail.google.com/mail/u/0/#inbox) or LinkedIn.
+
+Thank you for visiting my profile!
