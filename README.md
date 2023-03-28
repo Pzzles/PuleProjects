@@ -52,6 +52,6 @@ Here are some of the skills and technologies that I'm proficient in:
 ## Contact Me
 
 
-If you would like to get in touch with me, feel free to reach out via [email](https://mail.google.com/mail/u/0/#inbox) or LinkedIn.
+If you would like to get in touch with me, feel free to reach out via [email](tshehlap@gmail.com) or LinkedIn.
 
 Thank you for visiting my profile!
