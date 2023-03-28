@@ -13,11 +13,11 @@ Here are some of the projects that I'm currently working on or have completed:
 You can find a full list of my projects on my [GitHub profile](https://github.com/Pzzles).
 ### Javascript D3 Visualization
 
-*  [Barchart](https://github.com/Pzzles/D3-Barchart): a barchart.
-*  [Scatterplot](https://github.com/Pzzles/D3-Scatterplot):
-*  [Treemap](https://github.com/Pzzles/D3-Treemap):
-*  [Heatmap](https://github.com/Pzzles/D3-Heatmap):
-*  [Cloropleth](https://github.com/Pzzles/D3-Cloropleth):
+*  [Barchart](https://github.com/Pzzles/D3-Barchart): A graphical representation of data in which the height or length of rectangular bars represents the value of the data.
+*  [Scatterplot](https://github.com/Pzzles/D3-Scatterplot): A graph that displays data as a collection of points, where each point represents the values of two variables, plotted along the x- and y-axes.
+*  [Treemap](https://github.com/Pzzles/D3-Treemap): A visualization technique that displays hierarchical data as a set of nested rectangles, with the size of each rectangle representing the proportion of the data it represents.
+*  [Heatmap](https://github.com/Pzzles/D3-Heatmap): A graphical representation of data where the values of a matrix are represented as colors.
+*  [Cloropleth](https://github.com/Pzzles/D3-Cloropleth): A map that displays data by shading or coloring geographic regions based on a variable.
 
 
 ### Java Visualization of .csv data
