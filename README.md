@@ -9,6 +9,7 @@ I enjoy solving complex problems and creating innovative solutions.
 ## Projects
 
 
+You can find a full list of my projects on my [GitHub](https://github.com/Pzzles) profile.
 ### Javascript D3 Visualization
 
 *  [Barchart](https://github.com/Pzzles/D3-Barchart): a barchart.
