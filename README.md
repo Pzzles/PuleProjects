@@ -22,15 +22,15 @@ You can find a full list of my projects on my [GitHub profile](https://github.co
 
 ### freecodecamp Web design
 
-* [Survey Form](https://www.freecodecamp.org/certification/El_Cid/responsive-web-design)
-* [Technical Documentation Page](https://www.freecodecamp.org/certification/El_Cid/responsive-web-design)
-* [Product Landing Page](https://www.freecodecamp.org/certification/El_Cid/responsive-web-design)
-* [Personal Portfolio Webpage](https://www.freecodecamp.org/certification/El_Cid/responsive-web-design)
+* [Survey Form](https://github.com/Pzzles/Survey_Form)
+* [Technical Documentation Page](https://github.com/Pzzles/Technical_Doc)
+* [Product Landing Page](https://github.com/Pzzles/Product_Landing_Page)
+* [Personal Portfolio Webpage](https://github.com/Pzzles/Personal_Portfolio_Webpage)
 
 
 ### Java Visualization of .csv data
 
-* [Csv_Visualization](https://github.com/Pzzles/Visualize-csvData):
+* [Csv_Visualization](https://github.com/Pzzles/Visualize-csvData): Web app that inputs user identity data, and a csv file. It parses the file and saves the data into a database. It uses JDBC API to read the data and visualizes it on a temporal graph.
 
 
 ### To-Do Project
