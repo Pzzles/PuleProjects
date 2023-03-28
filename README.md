@@ -30,17 +30,17 @@ You can find a full list of my projects on my [GitHub profile](https://github.co
 
 ### Java Visualization of .csv data
 
-* [Csv_Visualization](https://github.com/Pzzles/Visualize-csvData): Web app that inputs user identity data, and a csv file. It parses the file and saves the data into a database. It uses JDBC API to read the data and visualizes it on a temporal graph.
+* [Csv_Visualization](https://github.com/Pzzles/Visualize-csvData): a web application that inputs user identity data, and a csv file. It parses the file and saves the data into a database. It uses JDBC API to read the data and visualizes it on a temporal graph.
 
 
 ### To-Do Project
 
-* [To-do](https://github.com/Pzzles/To-do-Project):
+* [To-do](https://github.com/Pzzles/To-do-Project): This project involves creating a to-do list application where users can create and manage their tasks. The application allows users to add, edit, and delete tasks, set due dates and reminders, and mark tasks as complete. Users can also prioritize tasks and categorize them for better organization.
 
 
 ### Tenant Management System
 
-* [Tenant_Management_System](https://github.com/Pzzles/Tenant_Management_System):
+* [Tenant_Management_System](https://github.com/Pzzles/Tenant_Management_System): A web application designed for property managers to manage their tenants and rental properties. The system allows managers to track tenant details, lease agreements, rental payments, and maintenance requests. It also provides reports and analytics to help managers make informed decisions about their properties. The system can be used to streamline the rental process and improve tenant satisfaction.
 
 
 ## Skills
