@@ -10,7 +10,7 @@ I enjoy solving complex problems and creating innovative solutions.
 
 
 Here are some of the projects that I'm currently working on or have completed:
-You can find a full list of my projects on my [GitHub](https://github.com/Pzzles) profile.
+You can find a full list of my projects on my [GitHub profile](https://github.com/Pzzles).
 ### Javascript D3 Visualization
 
 *  [Barchart](https://github.com/Pzzles/D3-Barchart): a barchart.
