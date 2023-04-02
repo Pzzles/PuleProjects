@@ -48,9 +48,11 @@ You can find a full list of my projects on my [GitHub profile](https://github.co
 Here are some of the skills and technologies that I'm proficient in:
 
 * Java
+* C#
 * Python
 * C++
 * JavaScript
+* ASP.NET
 * Ladder Logic
 * HTML/CSS
 * D3
