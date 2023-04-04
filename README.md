@@ -34,6 +34,11 @@ You can find a full list of my projects on my [GitHub profile](https://github.co
 
 * [Tenant_Management_System](https://github.com/Pzzles/Tenant_Management_System): A web application designed for property managers to manage their tenants and rental properties. The system allows managers to track tenant details, lease agreements, rental payments, and maintenance requests. It also provides reports and analytics to help managers make informed decisions about their properties. The system can be used to streamline the rental process and improve tenant satisfaction.
 
+### Online Bakery System
+
+* [Online Bakery System](https://github.com/Pzzles/Bakery): Description
+
+
 
 ### freecodecamp Web design
 
